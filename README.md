@@ -3,14 +3,6 @@
 
 - Công nghệ phần mềm
 
-
-## Thành viên
-1. Hùng
-2. Như
-3. Sơn
-4. Đăng
-
-
 #
 
 ## Demo
