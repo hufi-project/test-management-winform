@@ -1,0 +1,577 @@
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmCapNhatMatKhauSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmChonLichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.frmHienThiDT.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmMain.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmNganHangCauHoi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmPhucKhao.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmQLSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmRestore.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.frmTaoDeThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmTaoPhieu.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.frmThemSoCauHoiChuong.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmThiTracNghiem.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmThongKeDiem_Lop.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmThongKeDiem_PhongThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.frmThongTinMucDoCau.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.frmThongTinPTD.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmTrangChu.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmXemDiem.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmXemLichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.UControl.UCCauHoiThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.UControl.UC_LichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmMainSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.FrmThongTinSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Azure.Core.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Azure.Identity.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\BLL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Buffers.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Memory.Data.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Memory.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Security.Permissions.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Text.Json.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\BLL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\BLL.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Azure.Core.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Azure.Identity.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Buffers.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Memory.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Memory.Data.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Security.Permissions.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Text.Json.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Azure.Core.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Azure.Identity.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\BLL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\DTO.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Buffers.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Memory.Data.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Memory.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Security.Permissions.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Text.Json.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\DAL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\BLL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\BLL.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\DTO.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\DTO.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Azure.Core.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Azure.Identity.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Buffers.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Memory.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Memory.Data.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Security.Permissions.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Text.Json.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\DAL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.exe.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmCapNhatMatKhauSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmChonLichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.frmHienThiDT.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmMain.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmNganHangCauHoi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmPhucKhao.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmQLSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmRestore.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.frmTaoDeThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmTaoPhieu.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.frmThemSoCauHoiChuong.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmThiTracNghiem.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmThongKeDiem_Lop.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmThongKeDiem_PhongThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.frmThongTinMucDoCau.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.frmThongTinPTD.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmTrangChu.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmXemDiem.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmXemLichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.UControl.UCCauHoiThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.UControl.UC_LichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmMainSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.FrmThongTinSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\bin\Debug\Data\QL_ThiTracNghiem.mdf
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Data\QL_ThiTracNghiem.mdf
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\GUI.exe.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\GUI.exe
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\GUI.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Azure.Core.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Azure.Identity.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\BLL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\DTO.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Buffers.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Memory.Data.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Memory.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Security.Permissions.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Text.Json.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\DAL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\BLL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\BLL.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\DTO.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\DTO.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Azure.Core.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Azure.Identity.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Buffers.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Memory.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Memory.Data.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Security.Permissions.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Text.Json.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\DAL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.exe.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmCapNhatMatKhauSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmChonLichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.frmHienThiDT.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmMain.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmNganHangCauHoi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmPhucKhao.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmQLSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmRestore.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.frmTaoDeThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmTaoPhieu.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.frmThemSoCauHoiChuong.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmThiTracNghiem.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmThongKeDiem_Lop.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmThongKeDiem_PhongThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.frmThongTinMucDoCau.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.frmThongTinPTD.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmTrangChu.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmXemDiem.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmXemLichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.UControl.UCCauHoiThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.UControl.UC_LichThi.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmMainSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.FrmThongTinSinhVien.resources
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.exe
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\GUI\obj\Debug\GUI.pdb

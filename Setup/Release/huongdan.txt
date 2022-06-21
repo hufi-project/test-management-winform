@@ -1,0 +1,2 @@
+Tìm tới file conn.txt: C:\Program Files (x86)\Poppy\Setup\Data\conn.txt
+Add users everyone và chọn full control

@@ -1,0 +1,21 @@
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\bin\Release\DAL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\bin\Release\DAL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\bin\Release\DTO.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\bin\Release\DTO.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\bin\Release\DTO.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\obj\Release\DAL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\obj\Release\DAL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem_official - Copy - Copy - Copy\DAL\bin\Release\Data\QL_ThiTracNghiem.mdf
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\bin\Release\DAL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\bin\Release\DAL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\bin\Release\DTO.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\bin\Release\DTO.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\bin\Release\DTO.dll.config
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\obj\Release\DAL.dll
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\obj\Release\DAL.pdb
+C:\Users\hungt\OneDrive\Desktop\DN\QL_ThiTracNghiem\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
